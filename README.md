@@ -1,6 +1,6 @@
 # RepoMaker
 
-Python script that uses WebScraping to create a new repobuy typing a command in CMD
+Python script that uses WebScraping to create a new repo by typing "make_repo {project_title}" in CMD
 
 Install Instructions:
 - Install Python 3
