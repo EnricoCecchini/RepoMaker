@@ -1,10 +1,10 @@
 @echo off
-:: Check python install
-:: Create Venv
-:; Activate Venv
-:: pip install selenium
-:: pip install webdriver-manager
-:: Run python script
+: Check python install
+: Create Venv
+: Activate Venv
+: pip install selenium
+: pip install webdriver-manager
+: Run python script
 
 set script=%cd%\main.py
 echo %script%
